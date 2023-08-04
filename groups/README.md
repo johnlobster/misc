@@ -1,4 +1,4 @@
-# Moving from yahoo groups to groups.io
+# Moving from yahoo groups to groups.io or getting on to the MWS groups.io for the first time
 
 ## Create a new account on groups.io
 
@@ -55,5 +55,13 @@ You now have access to MWS !!
 
 ![search](./11.JPG)
 
+## Set notification and Email preferences
 
-These instructions can be found at 
+You may find that you don't want email every time someone posts to the MWS list. 
+
+From the MWS groups.io, click on "Subscription". One of the options is "Daily summary". That works for me
+
+![email notifications](./preferences.jpg)
+
+
+These instructions can be found at <https://github.com/johnlobster/misc/blob/master/groups/README.md>
